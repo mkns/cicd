@@ -1,3 +1,3 @@
 $( document ).ready(function() {
-    $("#foo").text("'ello there") ;
+    $("#foo").text("'ello there...") ;
 });
